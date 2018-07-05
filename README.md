@@ -1,4 +1,6 @@
 # moon-fun
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()
+[![Maintainability](https://api.codeclimate.com/v1/badges/f84cef79d36b08c102d0/maintainability)](https://codeclimate.com/github/typenil/moon-fun/maintainability)
 
 Messing around with Moon.
 
