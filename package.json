@@ -19,7 +19,7 @@
     "bubleify": "^0.7.0",
     "clean-css": "4.0.8",
     "cross-env": "^4.0.0",
-    "html-minifier": "^3.4.1",
+    "html-minifier": "^4.0.0",
     "http-server": "0.9.0",
     "moonify": "0.0.15",
     "npm-run-all": "^2.3.0",
