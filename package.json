@@ -20,7 +20,7 @@
     "clean-css": "4.0.8",
     "cross-env": "^4.0.0",
     "html-minifier": "^3.4.1",
-    "http-server": "0.9.0",
+    "http-server": "0.11.1",
     "moonify": "0.0.15",
     "npm-run-all": "^2.3.0",
     "slashjs": "^1.0.0",
